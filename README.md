@@ -1,0 +1,2 @@
+# RaidSquares
+WoW Addon
