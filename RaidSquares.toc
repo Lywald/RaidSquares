@@ -1,6 +1,6 @@
 ## Interface: 110007
 ## Title: RaidSquares
-## Notes: Affiche le raid sous forme d'une grille de carrés colorés (santé/distance) – les healers en blanc.
-## Author: ChatGPT
+## Notes: Display raid frames health as scaled squares logarithmically
+## Author: Lywald
 ## Version: 1.0
 RaidSquares.lua
